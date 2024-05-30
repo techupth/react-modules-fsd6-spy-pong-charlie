@@ -2,7 +2,7 @@ import Button from "./common/Button";
 
 export function MainContent() {
   return (
-    <main>
+    <main className="company-main">
       <div className="company-detail-left">
         <h1>Welcome to XYZ Corp</h1>
         <p>Your Trusted Partner in Excellence</p>
